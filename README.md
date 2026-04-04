@@ -33,3 +33,12 @@ Based on the SQL queries, here are the main findings:
 
 ##  Visual Results
 *(I have included SQL screenshots in this repository to showcase the query results for each insight.)*
+
+ ##  Data Visualization with Power BI
+After processing the data with SQL, I created an interactive dashboard in Power BI to uncover insights:
+
+- **Content Distribution:** Movies dominate the platform at approximately 70%, compared to 30% for TV Shows.
+- **Top Markets:** The United States and India are the leading content producers.
+- **Growth Trends:** Significant increase in content additions starting from 2015, with a visible impact during the 2020-2021 period.
+
+![Netflix Dashboard](./netflix_dashboard.png)
